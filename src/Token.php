@@ -11,7 +11,7 @@ class Token extends Model
      *
      * @var string
      */
-    protected $table = 'oauth_access_tokens';
+    protected $table = 'oauth_access_token';
 
     /**
      * Indicates if the IDs are auto-incrementing.
